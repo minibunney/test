@@ -6,4 +6,4 @@ Now with added text!
 
 Testing pull.
 
-Testing github cloning.
+Testing github and gitkraken cloning.
